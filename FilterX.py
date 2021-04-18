@@ -4,9 +4,9 @@ from settings import types
 from colorama import Fore
 from banner import banner
 
-print(Fore.GREEN + banner)
-
 os.system("clear")
+
+print(Fore.GREEN + banner)
 
 def main():
     files = os.listdir()
