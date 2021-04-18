@@ -1,7 +1,7 @@
 # FilterX
 Filter your files by format in Directory!
 
-![download(1)](https://user-images.githubusercontent.com/56045160/115126114-d60eb480-9f9a-11eb-909d-df919b9a970c.gif)
+![output_HyoIRD](https://user-images.githubusercontent.com/56045160/115148905-8cbc7480-a02f-11eb-8ac2-238ce3457d1f.gif)
 
 ## How it works
 ```
