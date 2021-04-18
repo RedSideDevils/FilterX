@@ -18,7 +18,7 @@ Filter your files by format in Directory!
 
 One line installation:
 ```
-$ git https://github.com/YanOScompany/FilterX.git
+$ git clone https://github.com/YanOScompany/FilterX.git
 ```
 ## Additional Information:
 
