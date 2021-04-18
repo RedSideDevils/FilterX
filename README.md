@@ -4,8 +4,9 @@ Filter your files by format in Directory!
 ![output_HyoIRD](https://user-images.githubusercontent.com/56045160/115148905-8cbc7480-a02f-11eb-8ac2-238ce3457d1f.gif)
 
 ## How it works
-```
+
 [a YouTube Tutorial](https://youtu.be/UuWVxDNr3ww)
+```
 1. Choose Directory To Filter Files
 2. Run Script
 3. Script will create folders and filter files by formats. ((mp3,mp4) to music, (py,cs) to scripts and etc.) 
