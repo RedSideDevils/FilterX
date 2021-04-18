@@ -5,7 +5,7 @@ Filter your files by format in Directory!
 
 ## How it works
 
-[a YouTube Tutorial](https://youtu.be/UuWVxDNr3ww)
+[YouTube Tutorial](https://youtu.be/UuWVxDNr3ww)
 ```
 1. Choose Directory To Filter Files
 2. Run Script
